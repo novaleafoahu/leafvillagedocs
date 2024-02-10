@@ -1,0 +1,46 @@
+{{/*
+    Docs: https://docs.hugoblox.com/content/writing-markdown-latex/#list-child-pages
+
+    Parameters
+    ----------
+    show_summary : bool, default "true"
+        If "true", show also the summary in addition to the title.
+*/}}
+
+{{ $show_summary := ne (.Get "show_summary") "false" }}
+{{ if gt (len $.Page.Pages) 0}}
+  <ul class="list-unstyled">
+  
+    {{ range $.Page.Pages.ByDate.Reverse | first 1}}
+
+
+     <li>
+        {{/* Fallback to filename as title (useful for default Obsidian note structure) */}}
+        <h5><a href="{{.RelPermalink}}">{{ .LinkTitle | default (title .File.TranslationBaseName) }}</a> (Newest)</h5>
+        {{if $show_summary | and .Summary}}<p>{{.Summary | plainify | emojify}}</p>{{end}}
+      </li>
+    {{end}}
+  </ul>
+{{end}}
+
+{{ if gt (len $.Page.Pages) 0}}
+  <ul class="list-unstyled">
+  
+    {{ range $.Page.Pages.ByLastmod.Reverse | first 3}}
+
+
+     <li>
+        {{/* Fallback to filename as title (useful for default Obsidian note structure) */}}
+        <h6> <a href="{{.RelPermalink}}">{{ .LinkTitle | default (title .File.TranslationBaseName) }}</a> (Updated {{.Lastmod  | time.Format ":date_medium"}} )</h6>
+        {{if $show_summary | and .Summary}}<p>{{.Summary | plainify | emojify}}</p> {{end}}
+      </li>
+    {{end}}
+  </ul>
+{{end}}
+
+
+
+
+
+
+
