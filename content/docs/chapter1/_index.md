@@ -61,7 +61,7 @@ Check the section NJ Zone 7 Seed link on the right regarding typical tomato vari
 
 ---
 ## Starting
-Tomato seeds should be started in 50 count trays. A tray is roughly about  21¼" x 11¼" x 2¼" or 19.6" x 9.75". Each cell within in the tray has dimensions: 1¾" x 1¾-2.72". This will provide each tomato seedling with ~4-6 weeks of growth. Larger size containers like egg cartons, small plastic cups can also be used, however the larger the starting container, the potential waste of space if something were to go wrong. Also, try not to plant tomato seeds in smaller containers. They will out grow the space quickly which would requiring transferring the young seedlings to larger size pots. More handling of the young fragile seedlings = greater risk of damage, resulting in slow wilt, then eventual trip to the compost bin.
+Tomato seeds should be started in 50 count trays. A tray is roughly about  21¼" x 11¼" x 2¼" or 19.6" x 9.75". Each cell within in the tray has dimensions: 1¾" x 1¾-2.72". This will provide each tomato seedling with ~4-6 weeks of growth. Larger size containers like egg cartons, small plastic cups can also be used, however the larger the starting container, the potential waste of space/soil if something were to go wrong. Also, try not to plant tomato seeds in smaller containers. They will out grow the space quickly which would requiring transferring the young seedlings to larger size pots. More handling of the young fragile seedlings = greater risk of damage, resulting in slow wilt, then eventual trip to the compost bin.
 
 Utilize potting soil that can be purchased from major retailers like lowes/home depot/walmart/aldis/target. The bagged soil should be labeled potting soil. Potting soil is most suitable for seed germination due to its drainage capacity. Bags labeled garden soil or dirt will not allow good drainage in containers. Water drainage in containers are required to prevent water stagnation. Stagnated water can eventually suffocate and rot plant roots.
 
@@ -69,10 +69,20 @@ Within each cell/container plant a single tomato seed. If you only have a few co
 
 During this stage, ensure the top soil area is kept moist. Use a spray bottle to water the top or gently pour water being carefully not to wash away the seeds and disrupt the soil. A plastic dome works well in keeping a moist environment.
 
-A heating mat is  recommended. Temperatures around 75-80 helps with speeding up germination, otherwise temps in the 60s will prolong it. Light is also not as important for germination at this stage. However, a strong light source IS required as soon as the seeds sprout. Without a suitable light source that provides what plants require, will result in leggy stretched seedlings. From my experience, leggy/stretched seedlings eventually die. 
+A heating mat is  recommended. Temperatures around 75-80 helps with speeding up germination, otherwise temps in the 60s will prolong it. Light is also not as important for germination at this stage. However, a strong light source IS required as soon as the seeds sprout. Without a suitable light source that provides what plants require, will result in leggy stretched seedlings. From my experience, leggy/stretched seedlings eventually tip over and wither. 
 
 
 {{< figure src="traystart.png" caption="tray start 3/4/23" numbered="true" >}}
+
+
+
+{{% callout note %}}
+
+During this stage, not much excitement. I typically check the soil moisture first thing in the morning and again in the evening. If its a little dry, I use the misting bottle to reapply water. 
+{{% /callout %}}
+
+
+
 
 -----
 ## Seedling stage
@@ -101,18 +111,22 @@ After about a month of growth, the tomato plants will begin to look as pictured 
 
  ❄️ ⛄ Before transferring, ensure the dangers of **frost** are over and temperatures are consistently around 60 F degrees or higher. ⛄  ❄️
 
+{{% callout note %}}
+ If for some reason, planting needs to be delayed due to busy schedule, temperatures are colder than expected, raining for weeks, etc... the young plants can be transferred to larger pots for more growth and time.  
 
-Below is a picture of tomato plants transferred to 4 inch pots. It was a cold/rainy spring in 2023 zone 7. If for some reason, planting needs to be delayed (busy schedule), the seedlings can be transfered to larger pots for more growth and time.  
+Below is a picture of tomato plants transferred to 4 inch pots. It was a cold/rainy spring in 2023 zone 7.
+
+
 
 {{< figure src="potted.png" caption="tomato potted at 5/5/23" numbered="true" >}}
-
+{{% /callout %}}
 
 💡 Prior to transferring into the ground, ensure the tomato plants are acclimated to sun exposure for at least a few days. Plants can be placed under direct sunlight for 1-3 hours (start with less and gradually increase the time) and then returned under shade or brought back indoors. Pay attention to any changes. If plants are wilting, check the soil moisture and return to under shade. However, if there are no signs of stress after a few days, they can be transplanted.
 
 
-Plants should be spaced 1.5-2 feet apart. This spacing ensures adequate air flow and space for the tomato plant to grow and produce tomatoes. Continue to maintain watering and fertilizing.
+Plants should be spaced 1.5-2 feet apart. This spacing ensures adequate air flow and space for the tomato plant to grow and produce. Continue to maintain watering and fertilizing.
 
-
+{{< figure src="spacing.png" caption="tomato plant spacing" numbered="true" >}}
 
 ### Fertilizing
 
@@ -133,14 +147,14 @@ For Potassium (K)
 | ----------- | --------- | ------- | ------ |        --------- | ----| 
 | **add lbs per acre**      | 240   | 180       | 120      | 60    | 0       | 0 |
 
-Taking average values for P and K we can use N 100 P 100 K 120 per acre (of per 43560 square feet).
+Taking average values for P and K we can use N 100 P 100 K 120 per acre (aka 43560 square feet).
 
 Scaled down to a 100 SF garden, the values are:
 
  0.23 lbs Nitrogen, 0.23 lbs Phosphorus, 0.275 lbs of Potassium.
 
 
-Now that we know the lbs required of each NPK, now determine the amount of fertilizer equivelent. 
+Now that we know the lbs required of each value of NPK, now determine the amount of fertilizer equivalent. 
 
 📚 Utilize this tool and input your fertilizer and  NPK values required (i.e. the table above) [https://aesl.ces.uga.edu/soil/fertcalc/](https://aesl.ces.uga.edu/soil/fertcalc/) 
 
@@ -154,12 +168,16 @@ For 0.23 lbs of phosphorous, one can use superphosphate 0-18-0 at 1.3 lbs.
 For .275 potassium, one can use potash 0.0.60 at 0.3 lbs. 
 
 
-With these values, the fertilizer can be applied weekly throughout many months. Simply divide the amount of fertilizer by the number of weeks the tomato plant may grow. To simplfy measuring, convert lbs to grams...
+With these values, the fertilizer can be applied weekly throughout a few months. Simply divide the amount of fertilizer by the number of weeks the tomato plant may grow. To simplify measuring, convert lbs to grams...
 
 
 1.5 lbs of calcium nitrate = ~680 grams. Therefore, over 12 weeks, you can apply 56 grams of calcium nitrate weekly. 
 
+{{% callout note %}}
 
+I typically allow my tomato plants to grow for 5-6 months starting in April. So that is around 20-24 weeks. I divide the required fertilizer by the weeks as the serving size I apply weekly 
+
+{{% /callout %}}
 
 
 
