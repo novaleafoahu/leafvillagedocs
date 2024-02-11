@@ -11,7 +11,7 @@ share: true
 title: 🍅 Tomato growing guide
 date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
-lastmod: '2018-09-09T00:00:00Z'
+lastmod: '2024-2-10'
 
 ---
 
@@ -25,7 +25,7 @@ lastmod: '2018-09-09T00:00:00Z'
 #### 📣 At a glance
 
 
-```markmap {height="350"}
+```markmap {height="400"}
 - 🍅**Tomato** plants at a glance
   - 🌞 **Sun** Full 
   - 🌧️ **Water** every other day, leaves wilting clear sign of
@@ -92,31 +92,95 @@ During this time, it is recommended to provide 14-16 hours of light. Keep with w
 
 ---
 
-## Transfer
+## Transferring and Maintenance
 After about a month of growth, the tomato plants will begin to look as pictured below. I simply kept with fertilizing, exposure to lights, and watering. At this stage, tomatoes may be prepped for transfer into the ground. 
-
-Before hand, ensure the dangers of **frost** are over with. I generally wait till temperatures are consistently around 60 F degrees.
 
 
 
 {{< figure src="growth.png" caption="tomato seedling growth at 4/1/23" numbered="true" >}}
 
-Below is a picture of tomato plants transferred to 4 inch pots. It was a cold/rainy spring in 2023 zone 7. In addition to a busy scedule, I was unable to prep the garden beds. Thefore, potting the plants into larger pots provide for more growth and time.  
+ ❄️ ⛄ Before transferring, ensure the dangers of **frost** are over and temperatures are consistently around 60 F degrees or higher. ⛄  ❄️
+
+
+Below is a picture of tomato plants transferred to 4 inch pots. It was a cold/rainy spring in 2023 zone 7. If for some reason, planting needs to be delayed (busy schedule), the seedlings can be transfered to larger pots for more growth and time.  
 
 {{< figure src="potted.png" caption="tomato potted at 5/5/23" numbered="true" >}}
 
 
-Prior to transferring into the ground, ensure that tomato plants are acclimated to sun exposure. Plants can be brought under direct sunlight for 1-3 hours (start with less and gradually increas the time) and then returned under shade or brought back indoors. 
+💡 Prior to transferring into the ground, ensure the tomato plants are acclimated to sun exposure for at least a few days. Plants can be placed under direct sunlight for 1-3 hours (start with less and gradually increase the time) and then returned under shade or brought back indoors. Pay attention to any changes. If plants are wilting, check the soil moisture and return to under shade. However, if there are no signs of stress after a few days, they can be transplanted.
+
+
+Plants should be spaced 1.5-2 feet apart. This spacing ensures adequate air flow and space for the tomato plant to grow and produce tomatoes. Contine to maintain watering and fertilizing.
 
 
 
+### Fertilizing
+
+📚 [According to cornell](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf) the following is recommended:
+
+Nitrogen (N) (100 lbs) per acre. 
+
+ 
+For Phosphorus (P)
+
+| if current P levels are (lbs /acre)  |< 3       | 3-5  | 6-12  | 13-39         | 40+ | 
+| ----------- | --------- | ------- | ------ |        --------- | ----| 
+| **add lbs per acre**      | 200   | 150       | 100      | 50    | 20       | 0 |
+
+For Potassium (K)
+
+| if current K levels are (lbs /acre)  |< 50       | 50-99  | 100-199  | 200-299         | 300+ | 
+| ----------- | --------- | ------- | ------ |        --------- | ----| 
+| **add lbs per acre**      | 240   | 180       | 120      | 60    | 0       | 0 |
+
+Taking average values for P and K we can use N 100 P 100 K 120 per acre (of per 43560 square feet).
+
+Scaled down to a 100 SF garden, the values are:
+
+ 0.23 lbs Nitrogen, 0.23 lbs Phosphorus, 0.275 lbs of Potassium.
+
+
+Now that we know the lbs required of each NPK, now determine the amount of fertilizer equivelent. 
+
+📚 Utilize this tool and input your fertilizer and  NPK values required (i.e. the table above) [https://aesl.ces.uga.edu/soil/fertcalc/](https://aesl.ces.uga.edu/soil/fertcalc/) 
+
+
+For example, calcium nitrate has an NPK rating of 15.5-0-0.
+
+Therefore, to obtain 0.23 lbs of nitrogen for a 100 SF plot of tomatoes, one would require 1.5 lbs of calcium nitrate.
+
+For 0.23 lbs of phosphorous, one can use superphosphate 0-18-0 at 1.3 lbs.
+
+For .275 potassium, one can use potash 0.0.60 at 0.3 lbs. 
+
+
+With these values, the fertilizer can be applied weekly throughout many months. Simply divide the amount of fertilizer by the number of weeks the tomato plant may grow. To simplfy measuring, convert lbs to grams...
+
+
+1.5 lbs of calcium nitrate = ~680 grams. Therefore, over 12 weeks, you can apply 56 grams of calcium nitrate weekly. 
+
+
+
+
+
+{{< gallery album="ttransplant" resize_options="500x500" >}}
+
+
+
+
+
+
+
+------
 ## Harvest
 
+First tomatoes started turning red around middle of July (Zone 7b). Plants continued to grow until November.
+
+{{< gallery album="tharvest" resize_options="500x500" >}}
 
 
 
-
-## Notes
+## Notes 
 
 
 ### Gallery
