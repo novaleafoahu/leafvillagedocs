@@ -25,15 +25,15 @@ lastmod: '2024-2-10'
 #### 📣 At a glance
 
 
-```markmap {height="400"}
-- 🍅**Tomato** plants at a glance
+```markmap {height="300px"}
+- 🍅**Tomato plants**
   - 🌞 **Sun** Full 
-  - 🌧️ **Water** every other day, leaves wilting clear sign of
-  needed watering
-  - 🥫 **Fertilize** weekly 20-20-20 at 
-  ~150-200 ppm at full size
+  - 🌧️ **Water** every other day, leaves wilting = add water
+  - 🥫 **Fertilize** weekly with 20-20-20 at ~150-200 ppm at full size, or 
+          utilize calculator below for fertilizer
   - 🧪 **PH** 6.2 to 6.8
   - 📏 **Spacing** 1.5 - 2 feet apart per plant
+  - 🧹 **Maintenance** Every few days, clear weeds, prune suckers
 
 ```
 
