@@ -130,22 +130,30 @@ Plants should be spaced 1.5-2 feet apart. This spacing ensures adequate air flow
 
 ### Fertilizing
 
-📚 [According to cornell](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf) the following is recommended:
+{{% callout note %}}
 
-Nitrogen (N) (100 lbs) per acre. 
+I typically allow the tomato plants to grow for 5-6 months starting in April when they are transplanted. That is around 20-24 weeks of growth once they are in the ground. I divide the required fertilizer by the total weeks to get the weekly serving size. Fertilizing is real important for a healthy plants and consistent high quality tomatoes and yields.
+
+{{% /callout %}}
+
+
+
+📚 [According to Cornell University](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf) the following rates are recommended for tomato plants:
+
+For Nitrogen (N), (100 lbs) per acre. 
 
  
 For Phosphorus (P)
 
 | if current P levels are (lbs /acre)  |< 3       | 3-5  | 6-12  | 13-39         | 40+ | 
 | ----------- | --------- | ------- | ------ |        --------- | ----| 
-| **add lbs per acre**      | 200   | 150       | 100      | 50    | 20       | 0 |
+| **add P lbs per acre**      | 200   | 150       | 100      | 50    | 20       | 0 |
 
 For Potassium (K)
 
 | if current K levels are (lbs /acre)  |< 50       | 50-99  | 100-199  | 200-299         | 300+ | 
 | ----------- | --------- | ------- | ------ |        --------- | ----| 
-| **add lbs per acre**      | 240   | 180       | 120      | 60    | 0       | 0 |
+| **add K lbs per acre**      | 240   | 180       | 120      | 60    | 0       | 0 |
 
 Taking average values for P and K we can use N 100 P 100 K 120 per acre (aka 43560 square feet).
 
@@ -154,7 +162,7 @@ Scaled down to a 100 SF garden, the values are:
  0.23 lbs Nitrogen, 0.23 lbs Phosphorus, 0.275 lbs of Potassium.
 
 
-Now that we know the lbs required of each value of NPK, now determine the amount of fertilizer equivalent. 
+Now that we know the lbs required of each NPK value, now determine the amount of fertilizer equivalent. 
 
 📚 Utilize this tool and input your fertilizer and  NPK values required (i.e. the table above) [https://aesl.ces.uga.edu/soil/fertcalc/](https://aesl.ces.uga.edu/soil/fertcalc/) 
 
@@ -165,22 +173,24 @@ Therefore, to obtain 0.23 lbs of nitrogen for a 100 SF plot of tomatoes, one wou
 
 For 0.23 lbs of phosphorous, one can use superphosphate 0-18-0 at 1.3 lbs.
 
-For .275 potassium, one can use potash 0.0.60 at 0.3 lbs. 
+For 0.275 lbs potassium, one can use potash 0-0-60 at 0.3 lbs. 
 
 
-With these values, the fertilizer can be applied weekly throughout a few months. Simply divide the amount of fertilizer by the number of weeks the tomato plant may grow. To simplify measuring, convert lbs to grams...
+With these values, the fertilizer can be applied weekly throughout the months. Simply divide the amount of fertilizer by the number of weeks the tomato plant may grow. To simplify measuring, convert lbs to grams...
 
 
-1.5 lbs of calcium nitrate = ~680 grams. Therefore, over 12 weeks, you can apply 56 grams of calcium nitrate weekly. 
+1.5 lbs of calcium nitrate = ~680 grams. Therefore, over 12 weeks, you can apply 680/12 = 56 grams of calcium nitrate weekly to a 100 SF garden bed. For a potted tomato plant, ~0.5 grams of calcium nitrate. 
+
+
+
+### Transplant
 
 {{% callout note %}}
+Here are the tomato plants transplanted into the garden bed. Once the weather starts to warm above 80 degrees, growth rate increases and they really start to take off. Other than watering and the weekly fertilizing, take care of any weed growth and prune off any suckers (the stems that grow between the main branch and leaf branches). I will update the docs in the future to share trellising of plants. 
 
-I typically allow my tomato plants to grow for 5-6 months starting in April. So that is around 20-24 weeks. I divide the required fertilizer by the weeks as the serving size I apply weekly 
+
 
 {{% /callout %}}
-
-
-
 {{< gallery album="ttransplant" resize_options="500x500" >}}
 
 
@@ -192,7 +202,7 @@ I typically allow my tomato plants to grow for 5-6 months starting in April. So 
 ------
 ## Harvest
 
-First tomatoes started turning red around middle of July (Zone 7b). Plants continued to grow until November.
+The first tomato harvest started middle of July (Zone 7b) when the green tomatoes started to turn red. Plants continued to grow and produce fruit until November. You can also harvest green tomatoes and allow them to rippen on your counter top. 
 
 {{< gallery album="tharvest" resize_options="500x500" >}}
 
@@ -201,7 +211,7 @@ First tomatoes started turning red around middle of July (Zone 7b). Plants conti
 ## Notes 
 
 
-### Gallery
+### Gallery (coming soon)
 
 
 ### Tomato planting zones and start dates
