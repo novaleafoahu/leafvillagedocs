@@ -28,12 +28,15 @@ lastmod: '2024-2-10'
 ```markmap {height="300px"}
 - 🍅**Tomato plants**
   - 🌞 **Sun** Full 
-  - 🌧️ **Water** every other day, leaves wilting = add water
-  - 🥫 **Fertilize** weekly with 20-20-20 at ~150-200 ppm at full size, or 
-          utilize calculator below for fertilizer
+  - 🌧️ **Water** Every other day, if leaves
+      are wilting = add water
+  - 🥫 **Fertilize** Weekly with 20-20-20 at 
+          ~150-200 ppm at full size, or utilize fertilizer 
+          calculator below 
   - 🧪 **PH** 6.2 to 6.8
-  - 📏 **Spacing** 1.5 - 2 feet apart per plant
-  - 🧹 **Maintenance** Every few days, clear weeds, prune suckers
+  - 📏 **Spacing** 1.5 - 2 Feet apart per plant
+  - 🧹 **Maintenance** Every few days, clear 
+          weeds, prune suckers
 
 ```
 
@@ -65,7 +68,7 @@ Check the section NJ Zone 7 Seed link on the right regarding typical tomato vari
 First step is to determine your Zone. [Click here to access the zone map 🗺](/docs/zones/) or on the left to get your zone information. The dates below are  guidelines as to when the best time of year to start the tomato seeds. If they are started too early indoors, may not have enough space and light output to continue the growth of tomato plants in larger containers. If starting too late, may not have enough time to obtain successful yields or the young plants may not manage well under the hot summer sun.  
 
 
-### Tomato Start dates
+### Start dates
 
 
 ```mermaid
@@ -309,6 +312,9 @@ A recommended list of tomatoes that grow well in NJ, provided by
 
 
 ## References
-http://extension.msstate.edu/content/how-much-yield-can-i-expect-plant
+- [Tomato yield Mississippi State University ](http://extension.msstate.edu/content/how-much-yield-can-i-expect-plant)
+- [Cornell University 2019 fertilization](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf) 
+- [Univerisity Rutgers Tomato List](https://njaes.rutgers.edu/fs678/)
 
-![tomatoes](tomatoprofile.png )
+
+
