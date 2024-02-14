@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: 🍅 Tomatoes
 summary: Learn how to grow tomatoes
-weight: 1
+weight: 2
 icon: #book
 icon_pack: fas
 show_date: true

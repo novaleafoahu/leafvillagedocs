@@ -3,7 +3,7 @@
 # Title, summary, and page position.
 linktitle: 🗺️ Zones 
 summary: Garden zones for planting.
-weight: 1
+weight: 4
 icon: #book-reader
 icon_pack: fas
 
