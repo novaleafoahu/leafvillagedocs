@@ -144,27 +144,163 @@ The young plant will continue to grow and produce 'true' leaves. See below of tr
 {{< figure src="scucumber.png" caption="all true leaves and quite large for given cell 4/9/23" numbered="true" >}}
 
 
-During this time, it is recommended to provide 14-16 hours of light. Keep with watering via bottom tray such that soil is moist and not overly saturated. Fertilize at this stage by applying 50 PPM of general fertilizer 20-20-20 once a week [^1]
-
-
-
-
-
-
+During this time, it is recommended to provide 14-16 hours of light. Keep with watering via bottom tray such that soil is moist and not overly saturated. If watering with no bottom access, simply pour water carefully without disturbing the soil. Fertilize at this stage by applying 50 PPM of general fertilizer 20-20-20 once a week [^1]
 
 ---
 
 
+## Transferring and Maintenance
+After about a month of growth, the cucumber plants will begin to look as pictured below. I simply kept with fertilizing, exposure to lights, and watering. At this stage, tomatoes may be prepped for transfer into the ground. 
+
+
+
+{{< figure src="cprep.png" caption="cucumber plant growth at 5/5/23" numbered="true" >}}
+
+
+{{% callout note %}}
+ If for some reason, planting needs to be delayed due to busy schedule, temperatures are colder than expected, raining for weeks, etc... the young plants can be transferred to larger pots for more growth and time.  
+
+Below is a picture of some cucumber plants transferred to 4 inch pots. It was a cold/rainy spring in 2023 zone 7.
+
+
+
+{{< figure src="sunc.png" caption="cucumber plant growth at 5/5/23" numbered="true" >}}
+
+{{% /callout %}}
+
+ ❄️ ⛄ Before transplanting, ensure the dangers of **frost** are over and temperatures are consistently around 60 F degrees or higher. ⛄  ❄️
+
+💡 Prior to transferring the cucumber plants into the ground, ensure the cucumber plants are acclimated to sun exposure for at least a few days. Plants can be placed under direct sunlight for 1-3 hours (start with less and gradually increase the time) and then returned under shade or back indoors. Pay attention to any changes. If the cucumber plants are wilting, check the soil moisture and return to under shade. However, if there are no signs of stress after a few days, they can be transplanted.
+
+
+Plants should be spaced 1.5-2 feet apart. This spacing ensures adequate air flow and space for the cucumber plants to grow and produce. Continue to maintain watering and fertilizing.
+
+{{< figure src="4.png" caption="cucumber plants transferred to ground" numbered="true" >}}
+
+
+### Fertilizing
+
+{{% callout note %}}
+
+I typically allow the cucumbers plants to grow for 5-6 months starting in April when they are transplanted. That is around 20-24 weeks of growth once they are in the ground. I divide the required fertilizer by the total weeks to get the weekly serving size. Fertilizing is real important for a healthy plants and consistent high quality cucumbers and yields.
+
+{{% /callout %}}
+
+
+
+📚 <mark> **[According to Cornell University](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf) the following rates are recommended for cucumber plants:** </mark> [^3]
+
+For Nitrogen (N), (100 lbs) per acre. 
+
+ 
+For Phosphorus (P)
+
+| if current P levels are (lbs /acre)  |< 3       | 3-5  | 6-12  | 13-39         | 40+ | 
+| ----------- | --------- | ------- | ------ |        --------- | ----| 
+| **add P lbs per acre**      | 160   | 120       | 80      | 40    | 20       | 0 |
+
+For Potassium (K)
+
+| if current K levels are (lbs /acre)  |< 50       | 50-99  | 100-199  | 200-299         | 300+ | 
+| ----------- | --------- | ------- | ------ |        --------- | ----| 
+| **add K lbs per acre**      | 160   | 120       | 80      | 40    | 0       | 0 |
+
+Taking average values for P and K we can use N 100 P 80 K 80 per acre (aka 43560 square feet).
+
+ <mark> **Scaled down to a 100 SF garden, the values are:** </mark>
+
+ - 0.23 lbs Nitrogen, 
+ - 0.19 lbs Phosphorus, 
+ - 0.19 lbs of Potassium.
+
+
+Now that we know the weight required of each NPK value, now determine the amount of fertilizer equivalent. 
+
+📚 <mark> **Utilize this tool and input your fertilizer and  NPK values required (i.e. the table above) [https://aesl.ces.uga.edu/soil/fertcalc/](https://aesl.ces.uga.edu/soil/fertcalc/)** </mark> 
+
+
+For example, calcium nitrate has an NPK rating of 15.5-0-0.
+
+Therefore, to obtain 0.23 lbs of nitrogen for a 100 SF plot of tomatoes, one would require 1.5 lbs of calcium nitrate.
+
+For 0.19 lbs of phosphorous, one can use superphosphate 0-18-0 at 1.0 lbs.
+
+For 0.19 lbs potassium, one can use potash 0-0-60 at 0.3 lbs. 
+
+
+With these values, the fertilizer can be applied weekly throughout the months. Simply divide the amount of fertilizer by the number of weeks the tomato plant may grow. To simplify measuring, convert lbs to grams...
+
+
+1.5 lbs of calcium nitrate = ~680 grams. Therefore, over 12 weeks, you can apply 680/12 = 56 grams of calcium nitrate weekly to a 100 SF garden bed. For a potted cucumber plant, ~0.5 grams of calcium nitrate. The same can be done for the Phosphorous and Potassium. 
+
+
+
+
+### In the ground
+
+{{% callout note %}}
+Here are the Cucumber plants growing in the garden bed. Once the weather starts to warm above 80 degrees, growth rate increases and they really start to take off. Other than watering and the weekly fertilizing, cucumbers plants are very low maintenance for the amount of veggies they produce. I will update the docs in the future to share with the trellising options I found worked best for my garden. 
+
+{{< figure src="1.png" caption="cucumber plant growth at 6/17/23" numbered="true" >}}
+
+
+{{% /callout %}}
+
+
+
+------
+## Harvest
+
+The first cucumber harvest started beginning of July (Zone 7b). Plants continued to grow and produce fruit until late September.  
+
+
+Harvest cucumbers at the recommended length below. Prolonging harvesting the cucumbers results in a less desirable cucumber due to larger seeds and less fresh flavor. Furthermore, frequent harvesting influences the plant to continue reproducing by pushing out flowers and growing more cucumbers. Allowing a cucumber to ripen fully on the plant slows flower/veggie production since the plant assumes its at end of life stage. [^4] 
+
+
+
+| Cucumber types | Recommended harvest length (inches) |
+| ---------------| ------------------------------|
+| Gershwin (P)      | 4-4.5|
+|Marketmore 76 (S)   | 8-9|
+|Gherkin (P)|2-3|
+|Striped Armenian| 8-18|
+
+>(P) = Pickling; (S) = Slicing
+
+
+
+{{% callout note %}}
+
+Growing cucumber plants are fairly low maintenance yet provide plenty of produce. They are crisp, flavorful, and colorful mainly because you can actually grow for quality. Cucumbers are also quick to grow. Many times, I would see a small cucumber about 2" long. After a few days, could be about a foot long. The cucumber plants can climb and spread. I  will update this some time in the future with details regarding trellising techniques I found best in my backyard garden. 
+
+ Drop a comment!  
+
+
+{{% /callout %}}
+
+{{< gallery album="charvest" resize_options="500x500" >}}
+
+
+
+## Notes 
+
+
+### Gallery (coming soon)
 
 
 
 
 
 
-
+[^2] [^3]
 
 
 
 ## References
-[^1]:[www.aces.edu/blog/topics/crop-production/greenhouse-cucumber-production/](https://www.aces.edu/blog/topics/crop-production/greenhouse-cucumber-production/) 
+[^1]:[aces cucumber production](https://www.aces.edu/blog/topics/crop-production/greenhouse-cucumber-production/) 
+
 [^2]:[ucdavis cucumbers](https://www.wifss.ucdavis.edu/wp-content/uploads/2016/05/FDA_WIFSS_-Cucumbers_PDF.pdf)
+
+[^3]:[cornell cucumber fertilizing](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf)
+
+[^4]:[clemson](https://hgic.clemson.edu/factsheet/harvesting-vegetables/)
