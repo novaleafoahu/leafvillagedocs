@@ -159,6 +159,9 @@ During this time, it is recommended to provide 14-16 hours of light. Keep with w
 ---
 
 ## Transferring and Maintenance
+
+ ❄️ ⛄ Before transplanting, ensure the dangers of **frost** are over and temperatures are consistently around 60 F degrees or higher. ⛄  ❄️
+
 After about a month of growth, the tomato plants will begin to look as pictured below. I simply kept with fertilizing, exposure to lights, and watering. At this stage, tomatoes may be prepped for transfer into the ground. 
 
 
@@ -176,7 +179,7 @@ Below is a picture of tomato plants transferred to 4 inch pots. It was a cold/ra
 {{< figure src="potted.png" caption="tomato potted at 5/5/23" numbered="true" >}}
 {{% /callout %}}
 
- ❄️ ⛄ Before transplanting, ensure the dangers of **frost** are over and temperatures are consistently around 60 F degrees or higher. ⛄  ❄️
+
 
 💡 Prior to transferring the tomato plants into the ground, ensure the tomato plants are acclimated to sun exposure for at least a few days. Plants can be placed under direct sunlight for 1-3 hours (start with less and gradually increase the time) and then returned under shade or back indoors. Pay attention to any changes. If the tomato plants are wilting, check the soil moisture and return to under shade. However, if there are no signs of stress after a few days, they can be transplanted.
 
@@ -185,7 +188,7 @@ Plants should be spaced 1.5-2 feet apart. This spacing ensures adequate air flow
 
 {{< figure src="spacing.png" caption="tomato plant spacing" numbered="true" >}}
 
-### Fertilizing
+### Fertilizing 💪
 
 {{% callout note %}}
 
@@ -259,7 +262,7 @@ Here are the tomato plants transplanted into the garden bed. Once the weather st
 
 
 ------
-## Harvest
+## Harvest 🍅
 
 The first tomato harvest started middle of July (Zone 7b) when the green tomatoes started to turn red. Plants continued to grow and produce fruit until November. You can also harvest green tomatoes and allow them to rippen on your counter top. 
 

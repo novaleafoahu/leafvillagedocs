@@ -56,7 +56,7 @@ This guide will provide an overview of how to grow cucumbers.
 
 ---
 
-## Starting
+## 🏁 Starting
 
 First step is to determine your Zone. [Click here to access the zone map 🗺](/docs/zones/) or on the left to get your zone information. The dates below are  guidelines as to when the best time of year to start the cucumber seeds. If they are started too early indoors, may not have enough space and light output to continue the growth of cucumber plants in larger containers. If starting too late, may not have enough time to obtain successful yields or the young plants may not manage well under the hot summer sun.  
 
@@ -150,6 +150,9 @@ During this time, it is recommended to provide 14-16 hours of light. Keep with w
 
 
 ## Transferring and Maintenance
+
+❄️ ⛄ Before transplanting, ensure the dangers of **frost** are over and temperatures are consistently around 60 F degrees or higher. ⛄  ❄️
+
 After about a month of growth, the cucumber plants will begin to look as pictured below. I simply kept with fertilizing, exposure to lights, and watering. At this stage, tomatoes may be prepped for transfer into the ground. 
 
 
@@ -168,7 +171,7 @@ Below is a picture of some cucumber plants transferred to 4 inch pots. It was a 
 
 {{% /callout %}}
 
- ❄️ ⛄ Before transplanting, ensure the dangers of **frost** are over and temperatures are consistently around 60 F degrees or higher. ⛄  ❄️
+ 
 
 💡 Prior to transferring the cucumber plants into the ground, ensure the cucumber plants are acclimated to sun exposure for at least a few days. Plants can be placed under direct sunlight for 1-3 hours (start with less and gradually increase the time) and then returned under shade or back indoors. Pay attention to any changes. If the cucumber plants are wilting, check the soil moisture and return to under shade. However, if there are no signs of stress after a few days, they can be transplanted.
 
@@ -178,7 +181,7 @@ Plants should be spaced 1.5-2 feet apart. This spacing ensures adequate air flow
 {{< figure src="4.png" caption="cucumber plants transferred to ground" numbered="true" >}}
 
 
-### Fertilizing
+### Fertilizing 💪
 
 {{% callout note %}}
 
@@ -239,7 +242,7 @@ With these values, the fertilizer can be applied weekly throughout the months. S
 ### In the ground
 
 {{% callout note %}}
-Here are the Cucumber plants growing in the garden bed. Once the weather starts to warm above 80 degrees, growth rate increases and they really start to take off. Other than watering and the weekly fertilizing, cucumbers plants are very low maintenance for the amount of veggies they produce. I will update the docs in the future to share with the trellising options I found worked best for my garden. 
+Here are the Cucumber plants growing in the garden bed. Once the weather starts to warm above 80 degrees, growth rate increases and they really start to take off. Other than watering and the weekly fertilizing, cucumbers plants are a low maintenance plant especially for the amount of veggies they produce. I will update the docs in the future to share with the trellising options I found worked best for my garden. 
 
 {{< figure src="1.png" caption="cucumber plant growth at 6/17/23" numbered="true" >}}
 
@@ -249,7 +252,7 @@ Here are the Cucumber plants growing in the garden bed. Once the weather starts 
 
 
 ------
-## Harvest
+## Harvest 🥒
 
 The first cucumber harvest started beginning of July (Zone 7b). Plants continued to grow and produce fruit until late September.  
 
