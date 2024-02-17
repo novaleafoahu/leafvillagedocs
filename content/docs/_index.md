@@ -6,10 +6,10 @@ toc: false
 ---
 {{% callout note %}}
 
-Welcome to Mighty Leafs note collection! I enjoy researching and collecting tidbits of info from all over the net. I hope this my be useful to the world. 
+Welcome to my note collection. I enjoy researching and collecting tidbits from all over the net relating to gardening. I hope this myy be useful to the world. 
 
 
-👈 On the left are notes regarding all kinds of plant life and fertilizers. 
+👈 On the left are my grow notes. Check back often as I hope to update and provide new content as new techniques and fertilizer get discovered.  
 {{% /callout %}}
 
 {{< list_children >}}

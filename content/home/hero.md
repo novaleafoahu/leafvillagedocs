@@ -19,7 +19,7 @@ cta:
 ---
 
 
-Welcome to Leafy Village, a collection of plant related notes found all over the net. Click the 'get started' link below to access the collection. Please drop a comment or suggestion. Any help greatly appreciated. These notes get updated often. 
+Welcome to Leafy Village, a collection of gardening notes about growing veggies, fruits, and fertilizers. Click the 'get started' link below to access the collection. Please drop a comment or suggestion. Any help greatly appreciated. These notes get updated often. 
 
 
 
