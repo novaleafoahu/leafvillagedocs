@@ -2,8 +2,8 @@
 widget: hero
 headless: true
 weight: 10
-title: Leafy Village 🍃 
-hero_media: mightyleaf.png
+title: Welcome to the LeafyVillage 🍃 
+hero_media: lv.png
 design:
   background:
     #gradient_start: '#d9ead3'
@@ -18,8 +18,7 @@ cta:
 
 ---
 
-
-Welcome to Leafy Village, a collection of gardening notes about growing veggies, fruits, and fertilizers. Click the 'get started' link below to access the collection. Please drop a comment or suggestion. Any help greatly appreciated. These notes get updated often. 
+Welcome to Leafy Village, a collection of gardening notes about veggies, fruits, fertilizers, and anything else related. Click the 'get started' link below to access the collection. Please drop a comment or suggestion. Any help greatly appreciated. These notes get updated often. 
 
 
 

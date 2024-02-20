@@ -43,7 +43,7 @@ draft: false
 
 ## Introduction
 {{% callout note %}}
-Cucumbers are what I consider a foundation vegetable like tomatoes. They make wonderful side dishes to go with steak/chicken, simple to add to salads, and make healthy green juices. Cucumber plants can yield  anywhere from 20-25 lbs per plant annually. The cucumber types I have grown successfully are called Unagi, marketmore, and Gershin. Unagi is a long style cucumber with thin skin, the kind that are seen at BJs/Costco but taste MUCH better! Marketmore is a thicker cucumber, with thicker skin that allows for longer storage. The Gershin cucumber is a pickling cucumber, short and stocky, and makes excellent pickles for sandwiches/burgers.  
+Cucumbers are what I consider a foundation vegetable like tomatoes. They make wonderful side dishes to go with meats, simple addition to salads, and make good for juicing. Cucumber plants may yield 20-25 lbs per plant annually. The cucumber types I have grown successfully are called Unagi, marketmore, and Gershin. Unagi is a long style cucumber with thin skin, the kind similar at BJs/Costco/Sams but taste much better when home grown. Marketmore is a thicker cucumber with thicker skin allowing for longer storage. The Gershin cucumber is a pickling cucumber, short, and stocky. Makes for excellent pickles for sandwiches and burgers.  
 
 Cucumbers can range in length from 3 inches to over 13 inches, vary by sweetness/bitterness, and harvesting . 
 
@@ -257,7 +257,7 @@ Here are the Cucumber plants growing in the garden bed. Once the weather starts 
 The first cucumber harvest started beginning of July (Zone 7b). Plants continued to grow and produce fruit until late September.  
 
 
-Harvest cucumbers at the recommended length below. Prolonging harvesting the cucumbers results in a less desirable cucumber due to larger seeds and less fresh flavor. Furthermore, frequent harvesting influences the plant to continue reproducing by pushing out flowers and growing more cucumbers. Allowing a cucumber to ripen fully on the plant slows flower/veggie production since the plant assumes its at end of life stage. [^4] 
+Harvest cucumbers at the recommended length below. If harvesting is delayed and cucumber over ripens, the plant will slow production and result in a cucumber with larger seeds and bitterness. Furthermore, frequent harvesting influences the plant to continue reproducing by pushing out flowers and growing more cucumbers. Allowing a cucumber to ripen fully slows flower/veggie production since the plant assumes end of life stage. [^4] 
 
 
 

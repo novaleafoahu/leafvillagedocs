@@ -63,7 +63,7 @@ Check the section NJ Zone 7 Seed link on the right regarding typical tomato vari
 
 
 ---
-## Starting
+## 🏁 Starting
 
 First step is to determine your Zone. [Click here to access the zone map 🗺](/docs/zones/) or on the left to get your zone information. The dates below are  guidelines as to when the best time of year to start the tomato seeds. If they are started too early indoors, may not have enough space and light output to continue the growth of tomato plants in larger containers. If starting too late, may not have enough time to obtain successful yields or the young plants may not manage well under the hot summer sun.  
 
