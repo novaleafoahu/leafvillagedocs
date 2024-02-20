@@ -41,6 +41,7 @@ header:
     show_search: true
     highlight_active_link: true
 
+
 footer:
   copyright:
     notice: '© {year} parent company [nova-leaf.com](https://nova-leaf.com)'

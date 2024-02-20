@@ -8,5 +8,7 @@ main:
     url: docs/
     weight: 10
 
-
+  - name: About
+    url: about/
+    weight: 20
 
