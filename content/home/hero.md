@@ -2,19 +2,19 @@
 widget: hero
 headless: true
 weight: 10
-title: Welcome to the LeafyVillage 🍃 
+title: Welcome🍃 
 hero_media: lv.png
 design:
   background:
     #gradient_start: '#d9ead3'
     #gradient_end: '#fff2cc'
     text_color_light: false
+    #image: background.jpg
 cta:
   url: docs/
   label: Get Started
   icon_pack: fas
   icon: download
-
 
 ---
 

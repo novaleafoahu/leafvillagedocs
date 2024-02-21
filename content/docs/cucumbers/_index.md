@@ -1,20 +1,20 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "🥒 Cucumbers growing guide"
+title: "🥒 Cucumber growing guide"
 linktitle: "🥒 Cucumbers"
 subtitle: "a guide to growing cucumbers"
 summary: "a guide to growing cucumbers"
 weight: 1
-icon: #book
+#icon: book
 icon_pack: fas
 show_date: true
+share: true
 
 date: '2018-09-09T00:00:00Z'
 type: book 
 lastmod: '2024-2-10'
 
-draft: false
 
 ---
 

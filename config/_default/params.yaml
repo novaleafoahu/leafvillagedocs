@@ -18,8 +18,8 @@ marketing:
     site_type: Project
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo documentation theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'An online resource for gardening topics such as growing vegetables, plants, flowers, fertilizers.'
+    twitter: 'leafyvillage'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -40,6 +40,7 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
+    filename: "logo.svg"
 
 
 footer:

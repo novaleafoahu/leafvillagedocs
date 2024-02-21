@@ -8,11 +8,11 @@ icon: #book-reader
 icon_pack: fas
 
 # Page metadata.
-title: 🍉Watermelon
+title: 🍉Watermelon growing guide
 date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
 lastmod: '2024-02-06'
-
+show_date: true
 ---
 
 
