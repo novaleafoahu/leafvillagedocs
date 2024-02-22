@@ -1,22 +1,21 @@
 ---
-# Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "🥒 Cucumber growing guide"
-linktitle: "🥒 Cucumbers"
+# Documentation: https://hugoblox.com/docs/managing-content/
+linktitle: "Cucumbers 🥒"
 subtitle: "a guide to growing cucumbers"
-summary: "a guide to growing cucumbers"
-weight: 1
+summary: "a guide to growing cucumbers in the backyard"
 #icon: book
 icon_pack: fas
-show_date: true
-share: true
-
+toc: true
+title: "Cucumber growing guide 🥒"
 date: '2018-09-09T00:00:00Z'
 type: book 
 lastmod: '2024-2-10'
-
-
+show_date: true
+share: true
 ---
+
+
 
 ![cucumbers](ccucumber.PNG )
 
@@ -56,12 +55,12 @@ This guide will provide an overview of how to grow cucumbers.
 
 ---
 
-## 🏁 Starting
+## Starting 🏁
 
-First step is to determine your Zone. [Click here to access the zone map 🗺](/docs/zones/) or on the left to get your zone information. The dates below are  guidelines as to when the best time of year to start the cucumber seeds. If they are started too early indoors, may not have enough space and light output to continue the growth of cucumber plants in larger containers. If starting too late, may not have enough time to obtain successful yields or the young plants may not manage well under the hot summer sun.  
+First step, determine your Zone. [Click here to access the zone map 🗺](/docs/zones/) or click the link on the left to access zone information. The dates below are mere guidelines as to the best time of year to start cucumber seeds. If seeds are started indoors too early, may outgrow the space and lighting available to continue growth in larger containers. If started too late, may not have enough time to obtain successful yields due to weather cooling or the young plants may not manage well under the hot summer sun.  
 
 
-### Start dates
+### Guidelines for start dates
 
 
 ```mermaid
@@ -173,7 +172,7 @@ Below is a picture of some cucumber plants transferred to 4 inch pots. It was a 
 
  
 
-💡 Prior to transferring the cucumber plants into the ground, ensure the cucumber plants are acclimated to sun exposure for at least a few days. Plants can be placed under direct sunlight for 1-3 hours (start with less and gradually increase the time) and then returned under shade or back indoors. Pay attention to any changes. If the cucumber plants are wilting, check the soil moisture and return to under shade. However, if there are no signs of stress after a few days, they can be transplanted.
+💡 Prior to transferring the cucumber plants into the ground, ensure the cucumber plants are acclimated to sun exposure for at least a few days. Plants can be placed under direct ☀️ sunlight for 1-3 hours (start with less and gradually increase the time) and then returned under shade or back indoors. Pay attention to any changes. If the cucumber plants are wilting, check the soil moisture and return to under shade. However, if there are no signs of stress after a few days, they can be transplanted.
 
 
 Plants should be spaced 1.5-2 feet apart. This spacing ensures adequate air flow and space for the cucumber plants to grow and produce. Continue to maintain watering and fertilizing.
@@ -307,3 +306,7 @@ Growing cucumber plants are fairly low maintenance yet provide plenty of produce
 [^3]:[cornell cucumber fertilizing](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf)
 
 [^4]:[clemson](https://hgic.clemson.edu/factsheet/harvesting-vegetables/)
+
+
+
+

@@ -23,6 +23,10 @@
   </ul>
 {{end}}
 
+
+
+
+
 {{ if gt (len $.Page.Pages) 0}}
   <ul class="list-unstyled">
   
@@ -31,8 +35,8 @@
 
      <li>
         {{/* Fallback to filename as title (useful for default Obsidian note structure) */}}
-        <h6> <a href="{{.RelPermalink}}">{{ .LinkTitle | default (title .File.TranslationBaseName) }}</a> (Updated {{.Lastmod  | time.Format ":date_medium"}} )</h6>
-        {{if $show_summary | and .Summary}}<p>{{.Summary | plainify | emojify}}</p> {{end}}
+        <h6> <a href="{{.RelPermalink}}">{{ .Title | default (title .File.TranslationBaseName) }}</a> </h6>
+        {{if $show_summary | and .Summary}}<p>{{.Summary | plainify | emojify}} (updated {{.Lastmod  | time.Format ":date_medium"}} )</p> {{end}}
       </li>
     {{end}}
   </ul>

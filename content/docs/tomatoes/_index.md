@@ -1,14 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: 🍅 Tomatoes
-summary: Learn how to grow tomatoes
-weight: 2
+linktitle: Tomatoes 🍅
+summary: Guide for growing tomatoes in the backyard.
 icon: #book
 icon_pack: fas
 show_date: true
 share: true
 # Page metadata.
-title: 🍅 Tomato growing guide
+title: Tomato growing guide 🍅
 date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
 lastmod: '2024-2-10'

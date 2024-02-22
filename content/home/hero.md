@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Welcome🍃 
+title: Welcome🍃☀️ 🏡🌻
 hero_media: lv.png
 design:
   background:
@@ -12,9 +12,10 @@ design:
     #image: background.jpg
 cta:
   url: docs/
-  label: Get Started
+  label: Access documents
   icon_pack: fas
   icon: download
+
 
 ---
 
